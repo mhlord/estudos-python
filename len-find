@@ -1,0 +1,9 @@
+course = ('Nome Grande Para Caramba')
+print (len (course))
+print(course.find ('e'))
+print(course.find ('a'))
+txt = "Hello, welcome to my world."
+
+x = txt.find("e")
+
+print(x)
